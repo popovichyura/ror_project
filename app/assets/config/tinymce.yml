@@ -1,0 +1,6 @@
++toolbar:
++  - styleselect | bold italic | undo redo | bold italic forecolor | alignleft alignrigth aligncenter alignjustify | bullist numlist outer indent | removeformat
++  - image | link
++plugins:
++  - image
++  - link 
